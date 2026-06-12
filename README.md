@@ -63,6 +63,49 @@ Durante o estudo, utilizei diferentes prompts no NotebookLM para entender melhor
 
 ---
 
+## 📊 Arquitetura de Data Pipeline (visão geral)
+
+O fluxo de dados estudado neste projecto segue a seguinte estrutura:
+
+📥 Fonte de Dados
+↓
+🔄 ETL / ELT (Python / SQL)
+↓
+🏗️ Processamento (Databricks)
+↓
+🗄️ Armazenamento (Data Lake / Data Warehouse)
+
+---
+
+---
+
+## 🔁 Fluxo detalhado de dados
+
+1. **Coleta de dados**
+   - Dados provenientes de APIs, arquivos ou bases de dados
+
+2. **Transformação**
+   - Limpeza, normalização e estruturação com Python e SQL
+
+3. **Processamento**
+   - Execução em ambientes como Databricks
+
+4. **Armazenamento**
+   - Organização em Data Lake ou Data Warehouse
+
+
+---
+
+## 🧠 O que eu aprendi com este projecto
+
+Este projeto ajudou-me a compreender melhor como funciona o ciclo completo de dados em ambientes reais.
+
+Percebi que Engenharia de Dados não é apenas programação, mas também arquitetura de sistemas, organização de dados e suporte à tomada de decisão.
+
+Também entendi a importância de escolher as ferramentas certas para cada etapa do fluxo de dados.
+
+---
+
 ## 📖 Miniguia de Estudo
 
 ### 🧩 Visão geral

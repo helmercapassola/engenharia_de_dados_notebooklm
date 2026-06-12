@@ -1,4 +1,4 @@
-# 📘 Caderno Temático - Engenharia de Dados com NotebookLM
+# 📘 Engenharia de Dados com NotebookLM
 
 ## 🎯 Contexto e Objetivo
 

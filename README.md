@@ -8,14 +8,14 @@ Durante o desenvolvimento, utilizei o :contentReference[oaicite:1]{index=1} para
 
 O tema escolhido foi:
 
-**Fundamentos de Engenharia de Dados: Pipelines, ETL/ELT e Análise com Python e SQL **
+**Fundamentos de Engenharia de Dados: Pipelines, ETL/ELT e Análise com  SQL e Power BI **
 
 ### 🎯 Objectivos do estudo:
 - Compreender os conceitos básicos de Engenharia de Dados
 - Entender como funcionam pipelines de dados na prática
 - Estudar ETL vs ELT de forma aplicada
 - Explorar o uso de Python e SQL em contextos de dados
-- Relacionar ferramentas como Databricks no fluxo de dados
+- Relacionar ferramentas como Databricks e Power BI no fluxo de dados  
 - Utilizar IA como apoio no processo de aprendizagem
 
 ---
@@ -27,7 +27,8 @@ Para a construção do caderno temático, utilizei fontes abertas e confiáveis:
 - https://www.ibm.com/topics/data-engineering  
 - https://www.ibm.com/topics/etl  
 - https://www.w3schools.com/sql/  
-- https://pandas.pydata.org/docs/getting_started/index.html  
+- https://pandas.pydata.org/docs/getting_started/index.html
+- https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview 
 
 ---
 
@@ -125,8 +126,8 @@ Engenharia de Dados é a área responsável por construir sistemas que coletam, 
 
 - Python → manipulação e análise de dados  
 - SQL → consultas e gestão de bases de dados  
-- Databricks → processamento de dados em larga escala  
-
+- Databricks → processamento de dados em larga escala
+- Power BI → visualização e criação de dashboards
 
 ---
 
@@ -164,3 +165,11 @@ Durante o estudo, utilizei alguns prompts que me ajudaram a aprofundar o entendi
 Este projecto permitiu-me compreender melhor os fundamentos da Engenharia de Dados e perceber como a Inteligência Artificial pode ser usada como apoio no processo de aprendizagem.
 
 O uso do NotebookLM ajudou-me a organizar conceitos complexos de forma mais simples e estruturada, facilitando o estudo e a revisão do conteúdo.
+
+---
+## 📓 NotebookLM (Projeto de Estudo)
+
+Este projeto foi desenvolvido com apoio do NotebookLM como ferramenta de estudo e organização de conhecimento.
+
+🔗 Link do notebook:
+https://notebooklm.google.com/notebook/1f92e862-fba9-4217-82ac-b04db18dccad/artifact/bfffc1dc-594b-428b-ad10-376d43c5c274?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
